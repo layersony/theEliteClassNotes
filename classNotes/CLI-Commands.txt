@@ -1,0 +1,16 @@
+mkdir {foldername} - create directory
+cat {filename} - read file contents
+ls - listing of files in directory
+ls -l - list of files in directory with more information
+pwd - current working directory
+rm {filename} - remove file
+rm -rf {foldername} - remove directory
+cd .. - go back
+clear - clear all
+nano {filename} - edit a file
+touch {filename} -create a new file
+echo - Displays info to shell
+{command} --help - displays help menu
+mv {filename} {destination} - moving a file/folder to another place
+cd {foldername} - change directory
+

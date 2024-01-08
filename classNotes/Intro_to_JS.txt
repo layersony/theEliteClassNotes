@@ -1,0 +1,177 @@
+Data-Type - Done
+
+String - 'Maingi'  "Maingi"  `Maingi1234567::Dsd`
+integer - 0, 1, 2 .. 9
+float - 12.2, 0.8, 
+boolean - true, false
+array or list - ["jsja", 777, 36.2, true, [], {}] 
+objects - {key:value}
+null - empty
+undefined - yet to be set
+tuples - ("jsja", 777, 36.2, true, [], {})
+ 
+ 
+Variables
+
+### constant - Done
+Datatypes
+
+### Assignment - Done
+
+variable = datatype
+
+myAge = 38
+
+
+### lookup - Done 
+
+myage
+
+--------------------------------------------
+
+# Rules of writing variables
+1 - Self descriptive
+2 - CamelCased
+3 - should start with -> small letter, underscore
+4 - NEVER start varibles numbers, symbles
+
+Examples
+    myName
+    essentialThreeExpressions
+
+    let and const
+
+    let myAge = 40
+    let className = "The Elites"
+
+    const myPhoneNumber = 0765432134
+    const dob = "23/9/3045"
+
+
+    let schoolFee = "School Fees"
+
+########## Operators
+Assignment :  =
+Arithmetric : +-*/ ** ++ -- %
+comparison : ==, ===, >, <, <=, >=, ?, !==
+logical : &&, ||, !
+
+
+########## Statments
+(they are always true)
+if
+if, else
+if, else if, else
+
+switch
+
+########## loops
+for loop (finite or limited)
+while loop (infinite or unlimited)
+do while loop
+ 
+ 
+ 
+######################## Practical Example ##############################
+let myAge = 45;
+let myName = "Maingi Samuel";
+let balance = 0.67;
+let isKenyan = false;
+
+console.log(myAge);
+console.log(myName);
+console.log(balance);
+
+console.log(typeof isKenyan)
+
+
+// Operators
+let a = 2
+let b = '2'
+
+let condition1 = a === b
+let condition2 = a === b
+
+let logicalCon = condition1 || condition2
+
+console.log( condition1 )
+console.log( condition2 )
+
+console.log( logicalCon )
+
+
+
+///// statements
+
+
+
+// if
+// syntax
+
+// if (condition) {
+//     // here goes logic
+// }
+
+if (ugaliMatumbo) {
+    console.log('Bring Ugali Matumbo')
+}
+
+
+// if .... else
+// if (condition){
+//     // here goes truth logic
+// }
+// else {
+//     // last option
+// }
+
+if (ugaliMatumbo) {
+    console.log('Bring Ugali Matumbo')
+}
+else {
+    console.log('Standup go to another')
+}
+
+// if ... else if ... else
+// syntax
+// if (condition){
+//     // code here
+// }
+// else if (condition) {
+//     // code here
+// }
+// else {
+//     // code here
+// }
+
+let ugaliMatumbo = false;
+let pasta = false;
+let pilau = false;
+let smocha = false;
+
+if (ugaliMatumbo) {
+    console.log("Bring Ugali Matumbo")
+}
+else if (pasta) {
+    console.log("Bring pasta")
+}
+else if (pilau){
+    console.log("Bring Pilau")
+}
+else if (smocha) {
+    console.log("Bring Smocha")
+}
+else {
+    console.log("Standup and Go")
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

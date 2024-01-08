@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Health Crisis Grows, Aid Groups Say",
+      "category": "general",
+      "content": "More than 10 children on average have lost one or both of their legs every day in Gaza since October 7, with many amputations performed without anesthesia, a charity said Sunday, underscoring the dire humanitarian situation in the Palestinian enclave following more than three months of Israeli bombardment."
+    },
+    {
+      "id": 3,
+      "title": "Politics in Kenya",
+      "category": "politics",
+      "content": "The politics of Kenya take place in a framework of a presidential representative democratic republic, whereby the president is both head of state and head of government, and of a multi-party system in accordance with a new constitution passed in 2010. Executive power is exercised by the executive"
+    },
+    {
+      "id": 4,
+      "title": "Candidates Who Missed 2023 KCPE To Join Form One, Take Qualifying Test Later",
+      "category": "education",
+      "content": "Candidates who did not sit their Kenya Certificate of Primary Education (KCPE) examinations last year will nonetheless join secondary schools this year, Education Cabinet Secretary Ezekiel Machogu announced on Monday."
+    },
+    {
+      "id": 6,
+      "title": "North Korea's Kim Jong Un Turns 40. Maybe.",
+      "category": "Politics",
+      "content": "The birth dates of Kim's father and grandfather, who preceded him as rulers, are national holidays in the authoritarian state"
+    }
+  ]
+}
